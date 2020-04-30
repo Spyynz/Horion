@@ -34,11 +34,11 @@ body {
 }
 a:link {
 	text-decoration: none;
-	color: #840808;
+	color: #35c2f2;
 }
 a:visited {
 	text-decoration: none;
-	color: #840808;
+	color: #35c2f2;
 }
 .nav {
 	height: 100%;
@@ -52,7 +52,7 @@ a:visited {
 	overflow-x: hidden;
 	padding-top: 60px;
 	transition: 0.7s;
-	border-right: solid #35c2f2 4px;
+	border-right: solid #35c2f2 8px;
 }
 .nav a {
 	display: block;
