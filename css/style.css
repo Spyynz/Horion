@@ -26,7 +26,6 @@ body {
 .header {
 	animation: transitionIn 0.8s;
 	font-family: 'SweetSensations';
-	color: #35c2f2;
 }
 .body {
 	animation: transitionIn 1.2s;
@@ -34,11 +33,9 @@ body {
 }
 a:link {
 	text-decoration: none;
-	color: #35c2f2;
 }
 a:visited {
 	text-decoration: none;
-	color: #35c2f2;
 }
 .nav {
 	height: 100%;
